@@ -66,6 +66,11 @@
 				"zip"
 			]
 		},
+		"snap": {
+			"confinement": "strict",
+			"summary": "Rambox is a Free and Open Source messaging and emailing app",
+			"grade": "devel"
+		},
 		"linux": {
 			"category": "Office",
 			"desktop": {
@@ -77,6 +82,7 @@
 				"AppImage",
 				"deb",
 				"rpm",
+				"snap",
 				"zip",
 				"tar.gz"
 			]
